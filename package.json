@@ -1,0 +1,16 @@
+{
+  "name": "workspace",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "workspace",
+  "dependencies": {
+    "rmrf": "^1.0.2",
+    "temporary": "0.0.8"
+  },
+  "readme": "ERROR: No README data found!",
+  "readmeFilename": "README.md",
+  "_id": "workspace@0.0.1",
+  "_shasum": "0507f2631993d604691b641a39421702b7ac441e",
+  "_resolved": "git://github.com/tabayashi/workspace#4bb360cb3d22ba3198e46fbf61b18c815cc28ac9",
+  "_from": "workspace@git://github.com/tabayashi/workspace"
+}
