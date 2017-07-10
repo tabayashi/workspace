@@ -3,6 +3,16 @@
   "version": "0.0.1",
   "main": "src/index.js",
   "description": "workspace",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabayashi/workspace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tabayashi/workspace/issues"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "chai": "^4.0.2",
