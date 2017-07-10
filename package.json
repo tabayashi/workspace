@@ -1,16 +1,21 @@
 {
   "name": "workspace",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "src/index.js",
   "description": "workspace",
-  "dependencies": {
-    "rmrf": "^1.0.2",
-    "temporary": "0.0.8"
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "chai": "^4.0.2",
+    "gulp-mocha": "^4.3.1",
+    "gulp-plumber": "^1.1.0",
+    "mocha": "^3.4.2",
+    "mocha-lcov-reporter": "^1.3.0",
+    "sinon": "^2.3.5",
+    "sinon-chai": "^2.11.0",
+    "sinon-test": "^2.0.0"
   },
-  "readme": "ERROR: No README data found!",
-  "readmeFilename": "README.md",
-  "_id": "workspace@0.0.1",
-  "_shasum": "0507f2631993d604691b641a39421702b7ac441e",
-  "_resolved": "git://github.com/tabayashi/workspace#4bb360cb3d22ba3198e46fbf61b18c815cc28ac9",
-  "_from": "workspace@git://github.com/tabayashi/workspace"
+  "dependencies": {
+    "rimraf": "^2.6.1",
+    "temporary": "0.0.8"
+  }
 }
