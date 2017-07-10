@@ -1,7 +1,7 @@
 'use strict';
 var util = require('util');
 var Base = require('temporary').Dir;
-var rmrf = require('rimraf');
+var rmrf = require('rmrf');
 
 function Workspace() {
   if (!(this instanceof Workspace)) {

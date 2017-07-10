@@ -25,7 +25,7 @@
     "sinon-test": "^2.0.0"
   },
   "dependencies": {
-    "rimraf": "^2.6.1",
+    "rmrf": "^1.0.2",
     "temporary": "0.0.8"
   }
 }
